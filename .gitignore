@@ -6,6 +6,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+MyJen
 .Python
 env/
 build/
@@ -55,3 +56,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+#Password
+mySecret.json
+
+#Output from script
+*.csv
